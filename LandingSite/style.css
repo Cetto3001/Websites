@@ -1,6 +1,15 @@
-#navbardiv{
+body{
+    background-color: black;
+    color: ghostwhite;
+}
+
+#navbar{
     position: fixed;
     top: 0;
     width: 100%;
     text-align: center;
+}
+
+nav ul{
+    display: block;
 }
